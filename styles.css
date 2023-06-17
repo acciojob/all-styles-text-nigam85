@@ -1,13 +1,18 @@
- h1{
-	border-width:200px;
+.container{
+	width:200px;
+	background-color:purple;	 
+	
+}
+h1{
+	border-left:5px solid green;
 	background-color:purple;
-	border-thickness-left:5px;
-	padding:20px;
-	color:white;
+	border-thickness:5px;
+	padding:10px;
 	font-size:20px;
-	 border-left:8px solid green;
-	 
+	color:white;
+	
 }
 a{
-	text-decoration-color:white;
+	 text-decoration-color:white;
 }
+
