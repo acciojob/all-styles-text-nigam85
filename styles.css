@@ -1,11 +1,10 @@
 .container{
-	width:200px;
+	border-width:200px;
 	background-color:purple;	 
 	
 }
-h1{
+ h1{
 	border-left:5px solid green;
-	background-color:purple;
 	border-thickness:5px;
 	padding:10px;
 	font-size:20px;
